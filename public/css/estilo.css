@@ -1,0 +1,17 @@
+#login, #register {
+    /* text-align: center; */
+    width: 90%;
+    margin-top: 10%;
+}
+
+.opcion-permiso {
+    background-color: none;
+    color: black;
+}
+
+#footer {
+    background-color: black;
+    color: aliceblue;
+    margin-top: 3em;
+    padding-top: 1.5em;
+}
